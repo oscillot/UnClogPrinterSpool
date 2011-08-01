@@ -1,0 +1,12 @@
+C:\Users\Oscillot\Documents\Reflector\Disassembler\UnClogPrinterSpool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oscillot\Documents\Reflector\Disassembler\UnClogPrinterSpool\bin\Debug\UnClogPrinterSpool.exe
+C:\Users\Oscillot\Documents\Reflector\Disassembler\UnClogPrinterSpool\bin\Debug\UnClogPrinterSpool.pdb
+C:\Users\Oscillot\Documents\Reflector\Disassembler\UnClogPrinterSpool\obj\x86\Debug\UnClogPrinterSpool.exe
+C:\Users\Oscillot\Documents\Reflector\Disassembler\UnClogPrinterSpool\obj\x86\Debug\UnClogPrinterSpool.pdb
+C:\Users\Oscillot\Documents\Visual Studio 2008\Projects\UnClogPrinterSpool\obj\x86\Debug\UnClogPrinterSpool.exe
+C:\Users\Oscillot\Documents\Visual Studio 2008\Projects\UnClogPrinterSpool\obj\x86\Debug\UnClogPrinterSpool.pdb
+C:\Users\Oscillot\Documents\Visual Studio 2008\Projects\UnClogPrinterSpool\bin\Debug\UnClogPrinterSpool.exe
+C:\Users\Oscillot\Documents\Visual Studio 2008\Projects\UnClogPrinterSpool\bin\Debug\UnClogPrinterSpool.pdb
+C:\Users\Oscillot\Documents\Visual Studio 2008\Projects\UnClogPrinterSpool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oscillot\Documents\Visual Studio 2008\Projects\UnClogPrinterSpool\obj\x86\Debug\UnClogPrinterSpool.EmptyPrinterQueue.resources
+C:\Users\Oscillot\Documents\Visual Studio 2008\Projects\UnClogPrinterSpool\obj\x86\Debug\UnClogPrinterSpool.csproj.GenerateResource.Cache

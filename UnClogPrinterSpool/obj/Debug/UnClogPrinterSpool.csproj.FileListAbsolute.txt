@@ -1,0 +1,3 @@
+C:\Users\Oscillot\Documents\Visual Studio 2008\Projects\UnClogPrinterSpool\UnClogPrinterSpool\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Oscillot\Documents\Visual Studio 2008\Projects\UnClogPrinterSpool\UnClogPrinterSpool\obj\Debug\UnClogPrinterSpool.Properties.Resources.resources
+C:\Users\Oscillot\Documents\Visual Studio 2008\Projects\UnClogPrinterSpool\UnClogPrinterSpool\obj\Debug\UnClogPrinterSpool.csproj.GenerateResource.Cache
